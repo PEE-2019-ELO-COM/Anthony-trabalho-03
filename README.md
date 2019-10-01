@@ -1,4 +1,4 @@
 # Anthony-trabalho-03
-O arquivo adquire as notas de VE para se calcular uma média,analisa a validade de existência dessas notas(se são maiores que 10 ou menores que 0),
-em seguida adquire uma nota de VC, em seguida calcula a nota que seria necessária para ficar com uma média final >=5 e, analisando
-se essa nota é maior ou igual a 4, dá a resposta final.
+O programa recebe uma variável char 'a' pelo scanf. Em seguida, o programa verifica qual o valor de 'a',
+comparando seu valor com os 10 valores possíveis (inteiros de 0 a 9), e printando na tela o resultado da comparação
+bit a bit desse número com os possíveis valores de cada bit de abcdefg (leds).
